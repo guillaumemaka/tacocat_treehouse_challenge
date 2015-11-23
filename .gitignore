@@ -1,6 +1,12 @@
+# Created by https://www.gitignore.io/api/ycharm,python
+
+#!! ERROR: ycharm is undefined. Use list command to see defined gitignore types !!#
+
+### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+*$py.class
 
 # C extensions
 *.so
